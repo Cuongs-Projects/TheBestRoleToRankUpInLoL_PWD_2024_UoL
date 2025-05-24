@@ -1,0 +1,6 @@
+name,championId,position,type,keys,win rate(%)
+Jayce,126,MIDDLE,"['Fighter', 'Marksman']","[3142, 3004, 3161]",63.1578947368421
+Orianna,61,MIDDLE,"['Mage', 'Support']","[6655, 4645, 3157]",58.46689895470383
+Akali,84,MIDDLE,['Assassin'],"[3152, 4645, 3041]",81.04265402843602
+Yone,777,MIDDLE,"['Assassin', 'Fighter']","[6672, 3181, 6671]",67.0391061452514
+Sylas,517,MIDDLE,"['Mage', 'Assassin']","[6656, 3157, 3089]",66.55172413793103
