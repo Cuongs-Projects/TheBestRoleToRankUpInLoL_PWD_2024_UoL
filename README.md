@@ -11,14 +11,7 @@ You can view the entire at the Jupyter Notebook
 
 The development of this project followed a standard data analysis workflow:
 
-  *Core Analytical Flow & Logic: The overall structure of the analysis, hypothesis testing, and interpretation of results were developed independently as part of the project's objectives.
-  
-  *API Interaction & Library Usage: Standard Python libraries were used. Implementation details for `requests` (API calls), `pandas` (data manipulation), `matplotlib`/`seaborn` (visualization), and `nltk` (text processing) were based on official documentation and common usage patterns. External resources like Stack Overflow or library-specific tutorials may have been consulted for specific syntax or best practices for certain functions.
-  
-  *Dataset Understanding: The interpretation of data fields and game-specific metrics relies on existing knowledge of League of Legends and information provided by the data sources.
-  
-  *Module Learning: General concepts of data programming, data handling, and visualization as taught in the "Programming with Data" module formed the foundation for this project.
-
+  *Core Analytical Flow & Logic --> API Interaction & Library Usage --> Dataset Understanding --> Module Learning
 
 - Project Structure & Key Analytical Stages:
 
