@@ -1,7 +1,9 @@
 # Project: 'Bot Laner' - The Optimal Role to Rank Up in League of Legends?
 ## Year 2 Semester 2 - Programming With Data (SIM UoL)
 
-This repository contains the project for the "Programming with Data" module. The project investigates the hypothesis: **"Aside from skills and talents, the playing as ‘Bot Laner’ is the best way to rank up in League of Legends.”** It utilizes Python with libraries such as Pandas, Matplotlib, Seaborn, and NLTK to fetch, process, analyze, and visualize data from League of Legends APIs (Poro.gg and Riot's Data Dragon) to determine optimal strategies for ranking up, focusing on role selection, playstyle, and champion/item choices.
+This repository contains the project for the "Programming with Data" module. The project investigates the hypothesis: **"Aside from skills and talents, the playing as ‘Bot Laner’ is the best way to rank up in League of Legends.”** 
+
+It utilizes Python with libraries such as Pandas, Matplotlib, Seaborn, and NLTK to fetch, process, analyze, and visualize data from League of Legends APIs (Poro.gg and Riot's Data Dragon) to determine optimal strategies for ranking up, focusing on role selection, playstyle, and champion/item choices.
 
 You can view the entire at the Jupyter Notebook 
 
